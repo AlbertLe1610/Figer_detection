@@ -6,7 +6,7 @@ Finger detecter Final.py is a program to recognize the number of finger/fingers 
 # **Installation**
     pip install -r requirements.txt
    
-#**Run**
+# **Run**
 
     python Finger\ detecter\ Final.py 
 
